@@ -12,8 +12,8 @@ ures<h1>Hi, I'm Chi, an <a href="https://linkedin.com/in/chivue">IT Professional
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Chi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="chivue | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Chi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/Chi_Ventures
+[instagram]: https://www.instagram.com/chi_ventures
 [linkedin]: https://linkedin.com/in/chivue
